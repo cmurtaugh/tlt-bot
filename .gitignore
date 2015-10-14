@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.pid
+secure.py*
+*.csv
+*.swp
+.idea
+.vagrant
