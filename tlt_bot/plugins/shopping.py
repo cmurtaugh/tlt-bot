@@ -14,4 +14,4 @@ def shopper(message):
 
 @listen_to('study card', re.IGNORECASE)
 def studycard(message):
-    message.reply("That's Crimson Cart to you, buddy.")
+    message.reply("How about a :crimson_cart:?")
